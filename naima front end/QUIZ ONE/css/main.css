@@ -1,0 +1,19 @@
+
+body{
+	background-color:indigo;
+}
+
+
+h1{
+  background-color: white;
+  border-style: solid;
+  text-align: center;
+  padding: 50px;
+  border-width: 30px;
+  color: blue;
+  columns: 2;
+  box-sizing: 30px;
+  text-underline-position: none;
+  font-weight;
+
+}
