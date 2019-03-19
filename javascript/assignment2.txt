@@ -1,0 +1,22 @@
+DECLARATION  in  JavaScript  means creating JavaScript  variables using the keyword “var”  
+A value should only be declared once;
+Eg.
+function myFunction(a, b) {
+  return a * b;
+}
+
+
+ INITIALIZATION is the means of assigning an initial value to a variable.
+int x is 7;
+String my name = “ aiman” 
+
+DEFINITION in  JavaScript  means creating JavaScript  variables using the keyword “var”  
+A value should only be declared once;
+Eg.
+function myFunction(a, b) {
+  return a * b;
+}
+
+
+
+

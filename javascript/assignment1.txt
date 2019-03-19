@@ -1,0 +1,3 @@
+In JavaScript, undefined means a variable has been declared but has 
+not yet been assigned a value, such as: var a.
+Null is an assignment value.
